@@ -1,5 +1,6 @@
 # Battleships
 Introduction to programming
+A single player version of Battlehips - This was the first program I ever wrote
 ----------------------------------------------------------------
 Python version: 3.8.5
 Tkinter version: 8.6
@@ -23,3 +24,5 @@ High scores can be manually changed in high_scores_stored.txt following the form
 "name -  numb", for example: 
 "Juan -  66.7,Jonas -  59.3,Ella -  51.6,Jonas -  48.5"
 Note the rounding and spacing. An existing highscore is required to play the game
+
+
